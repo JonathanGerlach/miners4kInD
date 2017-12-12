@@ -1,0 +1,7 @@
+{
+	"fileVersion": 1,
+	"versions": {
+		"derelict-sdl2": "3.0.0-alpha.6",
+		"derelict-util": "3.0.0-alpha.2"
+	}
+}

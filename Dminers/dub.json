@@ -1,0 +1,10 @@
+{
+	"name": "dminers",
+	"authors": [
+		"Jonathan Gerlach"
+	],
+	"description": "A D port of miners4k originally by Notch.",
+	"copyright": "Copyright © 2017, Jonathan Gerlach",
+	"license": "BSD",
+	"dependencies": {"derelict-sdl2": "~>3.0.0-alpha.6"}
+}
